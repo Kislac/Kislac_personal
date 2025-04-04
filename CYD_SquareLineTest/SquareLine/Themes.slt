@@ -1,0 +1,87 @@
+{
+  "deftheme": {
+    "name": "Default",
+    "properties": [
+      {
+        "nid": 329330282,
+        "strtype": "THEME_COLOR",
+        "strval": "BackGround",
+        "intarray": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "InheritedType": 0
+      },
+      {
+        "nid": -2140556385,
+        "strtype": "THEME_COLOR",
+        "strval": "FontColor",
+        "intarray": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "InheritedType": 0
+      },
+      {
+        "nid": 1708230117,
+        "strtype": "THEME_COLOR",
+        "strval": "Border",
+        "intarray": [
+          44,
+          44,
+          44,
+          255
+        ],
+        "InheritedType": 0
+      }
+    ]
+  },
+  "themes": [
+    {
+      "name": "Dark",
+      "properties": [
+        {
+          "nid": 329330282,
+          "strtype": "THEME_COLOR",
+          "strval": "BackGround",
+          "intarray": [
+            55,
+            55,
+            55,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": -2140556385,
+          "strtype": "THEME_COLOR",
+          "strval": "FontColor",
+          "intarray": [
+            255,
+            255,
+            255,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": 1708230117,
+          "strtype": "THEME_COLOR",
+          "strval": "Border",
+          "intarray": [
+            177,
+            177,
+            177,
+            255
+          ],
+          "InheritedType": 0
+        }
+      ]
+    }
+  ],
+  "selected_theme": "Default"
+}

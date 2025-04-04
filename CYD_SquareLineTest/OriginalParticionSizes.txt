@@ -1,0 +1,6 @@
+Name: app0, Type: 0, SubType: 16, Offset: 0x00010000, Size: 0x00140000
+Name: app1, Type: 0, SubType: 17, Offset: 0x00150000, Size: 0x00140000
+Name: nvs, Type: 1, SubType: 2, Offset: 0x00009000, Size: 0x00005000
+Name: otadata, Type: 1, SubType: 0, Offset: 0x0000e000, Size: 0x00002000
+Name: spiffs, Type: 1, SubType: 130, Offset: 0x00290000, Size: 0x00160000
+Name: coredump, Type: 1, SubType: 3, Offset: 0x003f0000, Size: 0x00010000
